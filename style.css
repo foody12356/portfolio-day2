@@ -1,0 +1,184 @@
+body{
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.myiconimage{
+    float: right;
+    margin-right: 300px;
+}
+.top-right {
+    margin: 150px;
+  }
+.name{
+      font-style: italic;
+        font-size: 50px;
+  }
+.left-info{
+    
+    font-size: 30px;
+}
+.port{
+    margin-top: 50px;
+    margin-left: 150px;
+}
+.port-name{
+    float: right;
+    margin-right: 1230px;
+    font-size: 15px;
+}
+.heading{
+  margin-left: 60px;
+  font-size: 30px;
+}
+.abou-capabilities-skills{
+    float: left;
+}
+.capabilities{
+    float: left;
+    text-align: left;
+    margin-right: 800px;
+    margin-left: 150px;
+    font-size: 30px;
+    position: absolute;
+}
+.skills{
+    float: right;
+    position: relative;
+    margin-left: 1000px;
+    font-size: 30px;
+}
+.my-skills{
+    position: absolute;
+}
+.bar-html{
+    size: 1px;
+  padding-left: 450px;
+  border-style: solid;
+  background: linear-gradient(
+    to left, 
+    #ffffff 10%, 
+    #00ffd5 90%,
+    #00ffd5 100%
+  );
+  position: relative;
+}
+.bar-c{
+    size: 1px;
+  padding-left: 450px;
+  border-style: solid;
+  background: linear-gradient(
+    to left,  
+    #ffffff 5%, 
+    #00ffd5 95%,
+    #00ffd5 100%
+  );
+  position: relative;
+}
+.bar-cplus{
+    size: 1px;
+  padding-left: 450px;
+  border-style: solid;
+  background: linear-gradient(
+    to left, 
+    #ffffff 20%, 
+    #00ffd5 80%,
+    #00ffd5 100%
+  );
+  position: relative;
+}
+.bar-css{
+    size: 1px;
+  padding-left: 450px;
+  border-style: solid;
+  background: linear-gradient(
+    to left, 
+    #ffffff 30%, 
+    #00ffd5 70%,
+    #00ffd5 100%
+  );
+  position: relative;
+}
+.bar-js{
+    size: 1px;
+  padding-left: 450px;
+  border-style: solid;
+  background: linear-gradient(
+    to left, 
+    #ffffff 49%, 
+    #00ffd5 51%,
+    #00ffd5 100%
+  );
+  position: relative;
+}
+.bar-machine-learning{
+    size: 1px;
+  padding-left: 450px;
+  border-style: solid;
+  background: linear-gradient(
+    to left,  
+    #ffffff 49%, 
+    #00ffd5 51%,
+    #00ffd5 100%
+  );
+  position: relative;
+}
+.education{
+  margin-top: 1000px;
+}
+.graduation-image{
+  float: left;
+  margin-left: 200px;
+}
+.graduation-text{
+  float: right;
+  font-size: 20px;
+  margin-right: 600px;
+}
+.cllg-name{
+  font-style: italic;
+  font-size: 30px;
+}
+.school{
+  margin-top: 300px;
+} 
+.school-image{
+  float: left;
+  margin-left: 200px;
+}
+.school-text{
+  float: right;
+  font-size: 20px;
+  margin-right: 400px;
+}
+.school-name{
+  font-style: italic;
+  font-size: 30px;
+}
+.schoolt{
+  margin-top: 300px;
+} 
+.schoolt-image{
+  float: left;
+  margin-left: 200px;
+}
+.school-tex-10{
+  float: right;
+  font-size: 20px;
+  margin-right: 400px;
+}
+.projects{
+  margin-top: 900px;
+}
+.project1{
+  font-size: 40px;
+  margin-left: 200px;
+}
